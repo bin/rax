@@ -2,3 +2,7 @@ rax-test
 rax-oom-test
 *.o
 *.dSYM
+tags
+tags.lock
+tags.temp
+.ccls-cache/
